@@ -1,0 +1,5 @@
+{
+    "nonexistent": 0,
+    "failure": 1,
+    "success": 2
+}
